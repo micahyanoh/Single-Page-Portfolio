@@ -1,6 +1,9 @@
 # REPLYING TO YOUR EMAIL SENT ON SUNDAY 20TH NOVEMBER 2023
 
-
+-Bootstrap
+-CSS
+-JS
+-HTML
 
 careers@techlitafrica.org
 	
